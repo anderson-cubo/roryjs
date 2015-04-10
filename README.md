@@ -1,0 +1,1 @@
+A digital signage framework built for interaction
